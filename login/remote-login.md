@@ -11,5 +11,5 @@ Example: python remote-login.py --host 120.16.40.7 --empid emp001 --key ./securi
 
 ## Password based authentication
 Syntax: python <file-name> --host <host name/ip> --username <username> --password <password>  
-Example: python remote-login.py --host 120.21.81.7 --username abc --password abc
+Example: python remote-login.py --host 120.21.81.7 --username abc --password abc123
 
